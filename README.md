@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zarnigor!
 - 👀 I’m interested in coding web sites and make telegram bot!
-- - 🌱 I’m currently learning laravel framework
+- 🌱 I’m currently learning laravel framework
 - 💞️ I’m working  IT company
 - 📫 How to reach me ?My mail: zarnigorasatova52@gmail.com
 
