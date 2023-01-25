@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @asatova
+- 👋 Hi, I’m Zarnigor!
 - 👀 I’m interested in coding web sites and make telegram bot!
-- - 🌱 I’m currently learning php language
-- 💞️ I’m looking to collaborate on it company
-- 📫 How to reach me ? my telegram user name https://t.me/asatova_Z
+- - 🌱 I’m currently learning laravel framework
+- 💞️ I’m working  IT company
+- 📫 How to reach me ?My mail: zarnigorasatova52@gmail.com
 
 <!---
 asatova/asatova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
