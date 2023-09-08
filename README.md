@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zarnigor!
-- 👀 I love coding !
-- 👩‍💻 I work at the RJM IT company in NY
+- 👩🏻‍💻 I love coding !
+- 💼 I work at the RJM IT company in NY
 - 📫 How to reach me ? My mail: zarnigorasatova52@gmail.com
 
 <!---
