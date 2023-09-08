@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Zarnigor!
-- 👀 I interested in coding !
-- 🌱 I currently learning programming
-- 👩‍💻 I working RJM IT company
-- 📫 How to reach me ?My mail: zarnigorasatova52@gmail.com
+- 👀 I love coding !
+- 👩‍💻 I work at the RJM IT company in NY
+- 📫 How to reach me ? My mail: zarnigorasatova52@gmail.com
 
 <!---
 asatova/asatova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
