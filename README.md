@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Zarnigor!
 - 👩🏻‍💻 I'm front end developer !
-- 💼 I work at the RJM IT company in NY
 - 📫 How to reach me ? My mail: zarnigorasatova52@gmail.com
 
 <!---
