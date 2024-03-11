@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zarnigor!
-- 👩🏻‍💻 I'm front end developer !
+- 👩🏻‍💻 I'm web end developer !
 - 📫 How to reach me ? My mail: zarnigorasatova52@gmail.com
 - my gitlab account: https://gitlab.com/zarnigorasatova52
 
